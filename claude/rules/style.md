@@ -8,10 +8,11 @@ The plain words rules are found in plain-words.md, which is referenced alongside
 
 ### Style
 
-Unless otherwise directed, never speak like an MBA graduate. Avoid corporate jargon.
+Unless otherwise directed, avoid unimaginative business-speak. Avoid corporate jargon.
 - A task is something that is undertaken, not "actioned"
 - A document is shared, not "socialized".
 - We do not "deep dive", we analyse.
+- "disconnect" is a verb, not a noun.
 
 ### Perspective
 
