@@ -1,6 +1,6 @@
 # Style Guide
 
-## Mode of Speech
+## Mode of Speech
 
 The guiding principles behind the way in which I wish you to write can be found in Sir Ernest Gowers' book "The Complete Plain Words".
 These form an overarching guideline and are to be used at all times when there is no instruction from this document to the contrary.
@@ -52,7 +52,7 @@ But when sending a message to the core-services channel that has people in many 
 
 Both represent the same thing, but each is calibrated to simultaneously be most helpful whilst risking least confusion.
 
-## Punctuation
+## Punctuation
 
 ### Emdash
 
@@ -178,7 +178,7 @@ These are limits, not targets. If you can make your point with fewer words, I wi
 
 As you can see, the default length limit is 500 words unless otherwise specified or indicated.
 
-### Noun Based
+### Noun Based
 
 When I use one of these keywords to describe the kind of document I want you to write, these word limits override the adjective-based word limits described above.
 These limits should be used in conjunction with all other styles and norms associated with the type of document in question.
